@@ -28,5 +28,5 @@ Character recognition is done by creating a feature vector from a symbol and cal
 
 # Authors
 
-Adam Gumieniak
-Brian Tiner
+* Adam Gumieniak
+* Brian Tiner
