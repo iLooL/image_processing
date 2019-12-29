@@ -25,3 +25,8 @@ For the feature vector we decided to divide the image into sixteen quadrants ins
 ## Character Recognition
 
 Character recognition is done by creating a feature vector from a symbol and calculating the smallest difference between it and the other feature vectors in the dataset. The character to recognize is segmented to get an image of only the symbol and then it is converted to a feature vector. We compare the feature vector to all other feature vectors in the dataset. For each vector in the dataset, the difference between it and the vector to recognize is found between all of the features. All sixteen differences are added together. The vector with the least difference is most like the vector to recognize. 
+
+# Authors
+
+Adam Gumieniak
+Brian Tiner
